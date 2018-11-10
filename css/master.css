@@ -1,3 +1,7 @@
 .container{
   width: 95%;
 }
+
+#autocomplete{
+  padding: 0 0 0 15px;
+}
